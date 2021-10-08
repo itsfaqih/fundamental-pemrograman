@@ -5,7 +5,8 @@ Kumpulan artikel, tips, dan trik untuk meningkatkan pemahaman tentang dasar pemr
 ## Daftar isi
 1. [Membentuk Pola Pikir](https://github.com/itsfaqih/fundamental-pemrograman/tree/main/membentuk-pola-pikir)
     * [Mungkin Pemrograman Bukan Bidang yang Kamu Cari](https://github.com/itsfaqih/fundamental-pemrograman/blob/main/membentuk-pola-pikir/mungkin-pemrograman-bukan-bidang-yang-kamu-cari.md)
-    * Miskonsepsi Kemandirian dalam Pemrograman
+    * [Miskonsepsi Kemandirian dalam Pemrograman](https://github.com/itsfaqih/fundamental-pemrograman/blob/main/membentuk-pola-pikir/miskonsepsi-kemandirian-dalam-pemrograman.md)
+    * Skill Wajib bagi Programmer dan Bagaimana Mengembangkannya
 2. Data dan Jenisnya
     * Teks (string)
     * Angka (number)
