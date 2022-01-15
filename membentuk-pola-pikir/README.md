@@ -6,4 +6,5 @@ Pastikan bahwa pemikiranmu berada di jalan yang benar saat belajar pemrograman.
 ## Daftar isi
 1. [Mungkin Pemrograman Bukan Bidang yang Kamu Cari](https://github.com/itsfaqih/fundamental-pemrograman/blob/main/membentuk-pola-pikir/mungkin-pemrograman-bukan-bidang-yang-kamu-cari.md)
 2. [Miskonsepsi Kemandirian dalam Pemrograman](https://github.com/itsfaqih/fundamental-pemrograman/blob/main/membentuk-pola-pikir/miskonsepsi-kemandirian-dalam-pemrograman.md)
-3. Skill Wajib bagi Programmer dan Bagaimana Mengembangkannya
+3. [Membentuk Mental Model Pemrograman Yang "Sebenar-benarnya"](https://github.com/itsfaqih/fundamental-pemrograman/blob/main/membentuk-pola-pikir/membentuk-mental-model-pemrograman-yang-sebenar-benarnya.md)
+4. Skill Wajib bagi Programmer dan Bagaimana Mengembangkannya
