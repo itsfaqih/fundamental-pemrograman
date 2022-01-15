@@ -24,6 +24,12 @@ Untuk menghindari hal tersebut lebih awal, coba periksa apakah dirimu sudah meme
 
     Mau tidak mau, kamu pasti akan dihadapkan oleh permasalahan matematika, baik itu kamu sadar bahwa itu termasuk matematika atau bukan.
 
-    Bagi yang mau berusaha meningkatkan logika matematisnya, saya sangat rekomendasikan untuk menonton video di zenius tentang [postulat dasar](https://www.zenius.net/c/402/postulat-dasar/). Tenang, total videonya cuma 39 menit, tidak ada hitung-hitungan rumit, dan asik kok.
+    Sebagai catatan, matematika itu tidak melulu tentang angka atau berhitung. Yang bahkan orang-orang sering bilang "Yang penting logika", itu pun tetap mengikuti aturan matematika.
+
+    Bagi yang mau berusaha meningkatkan logika matematisnya, saya sangat rekomendasikan untuk menonton video di zenius tentang [postulat dasar](https://www.zenius.net/c/402/postulat-dasar/). Tenang, cukup nonton postulat 1-3 cuma 11 menitan, tidak ada hitung-hitungan rumit, dan asik kok.
 
     Note: Kamu perlu mendaftar ke website-nya untuk bisa menonton video tersebut, gratis kok.
+
+Jika kamu sudah memenuhi ketiga kriteria di atas, selamat, kamu sudah siap untuk mulai memasuki dunia pemrograman.
+
+Jika belum, namun masih memiliki semangat untuk belajar, mulai lah secara perlahan agar bisa memenuhi kriteria tersebut 😄 Good luck!
