@@ -2,7 +2,7 @@
 ## Membentuk Mental Model Pemrograman Yang "Sebenar-benarnya"
 Ketika kita pertama kali mempelajari suatu hal, sering kali kita mencari sebuah perumpamaan dari hal yang kita ketahui, kemudian kita hubungkan dengan apa yang dipelajari.
 
-Pada tahap awal, menurut saya ini memang diperlukan, dan bahkan bukan suatu hal yang bisa kita kendalikan. Akan tetapi, perlu diingat bahwa perumpamaan yang kita gunakan bisa jadi tidaklah sama persis dengan yang kenyataannya.
+Pada tahap awal, menurut saya ini memang diperlukan, dan bahkan bukan suatu hal yang bisa kita kendalikan. Akan tetapi, perlu diingat bahwa perumpamaan yang kita gunakan bisa jadi tidaklah sama persis dengan kenyataannya.
 
 Sebagai contoh, saat awal belajar pemrograman, saya melihat di dalam `if` adalah sebuah "kondisi" dengan format perbandingan antara dua hal, jika dia benar, maka kode di dalamnya akan jalan.
 
@@ -55,7 +55,11 @@ console.log(1 != 2);
 // Output: true
 ```
 
-Kemudian hal itu juga saya praktikan ke jenis data lainnya, seperti huruf dan angka, menggunakan bantuan function `Boolean()`  bawaan Javascript untuk mengkonversinya.
+Lalu, bagaimana untuk kasus huruf dan angka tadi? Kan ketika kita cetak, mereka tidak jadi `boolean`?
+
+Benar, namun jika ditelusuri lebih lanjut, dalam Javascript, ada konsep nilai truthy dan falsy, yang artinya kita bisa menggunakan nilai non-`boolean` untuk hal-hal yang diisi `boolean`, seperti `if` tadi.
+
+Untuk mengetahui bagaimana suatu nilai non-`boolean` itu truthy (`true`) atau falsy (`false`), saya menggunakan bantuan function `Boolean()`  bawaan Javascript untuk mengkonversinya ke bentuk `boolean`.
 
 ```js
 console.log(Boolean(2));
